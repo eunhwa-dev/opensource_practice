@@ -1,1 +1,1 @@
-print('This is Conflict branch')
+print('Master change')
