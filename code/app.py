@@ -1,1 +1,1 @@
-print('This is Master branch')
+print('This is Conflict branch')
