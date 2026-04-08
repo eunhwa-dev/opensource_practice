@@ -1,1 +1,1 @@
-print('Master change')
+print('Real conflict change')
