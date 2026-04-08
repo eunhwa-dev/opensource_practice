@@ -1,2 +1,1 @@
-print('Hello Git')
-print('Update app')
+print('This is Master branch')
